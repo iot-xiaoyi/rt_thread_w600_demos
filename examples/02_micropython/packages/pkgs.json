@@ -1,0 +1,17 @@
+[
+ {
+  "path": "/packages/language/micropython", 
+  "ver": "v1.10", 
+  "name": "MICROPYTHON"
+ }, 
+ {
+  "path": "/packages/system/fal", 
+  "ver": "v0.3.0", 
+  "name": "FAL"
+ }, 
+ {
+  "path": "/packages/system/littlefs", 
+  "ver": "v1.7.0", 
+  "name": "LITTLEFS"
+ }
+]
